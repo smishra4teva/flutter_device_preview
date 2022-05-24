@@ -6,6 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:provider/provider.dart';
+import 'package:collection/collection.dart';
 
 import '../section.dart';
 
